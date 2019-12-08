@@ -1,2 +1,2 @@
 # Webpage
-A webpage containing my details.
+A simple webpage developed from a template. Contains my basic details and information.
